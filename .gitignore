@@ -1,5 +1,3 @@
-.env
-.env.*
 !.env.example
 .venv/
 __pycache__/
@@ -18,3 +16,5 @@ demo/exports/*.mp4
 datasets/.qa/
 datasets/real-small/qa/
 PAUSED.md
+config.bat
+node_modules
